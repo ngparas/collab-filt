@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Starter code for item-based collaborative filtering
-# Complete the function user_based_cf below. Do not change its name, arguments and return variables. 
-# Do not change main() function, 
-
 
 # import modules you need here.
 import sys
